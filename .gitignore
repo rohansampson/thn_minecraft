@@ -1,0 +1,31 @@
+# Graphics software lock files
+*.af~lock~
+*.psd
+*.psb
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Server configuration (if contains sensitive data)
+# Uncomment if you don't want to track server.properties
+# server.properties
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+

@@ -1,0 +1,14 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "block/custom_wood_bottom",
+    "up": "block/custom_wood_top",
+    "north": "block/custom_wood_north",
+    "south": "block/custom_wood_south",
+    "west": "block/custom_wood_west",
+    "east": "block/custom_wood_east"
+  }
+}
+
+
+
